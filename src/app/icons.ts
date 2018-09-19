@@ -1,5 +1,4 @@
-import { faFacebookF, faTwitter } from '@fortawesome/free-brands-svg-icons';
+import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
 export {
    faFacebookF,
-   faTwitter,
 };
